@@ -1,6 +1,10 @@
-.git
-.gitignore
-.github
+.git/
 .gitattributes
-READMETEMPLATE.md
+.gitignore
+.build/
+.github/
+dredd/
+runscripts/
+tests/
+themes-default/
 README.md
